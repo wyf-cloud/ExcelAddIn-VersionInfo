@@ -1,4 +1,4 @@
 1.0.0.1
-https://github.com/wyf-cloud/ExcelAddIn-VersionInfo/releases/download/v1.0.0.0/default.exe
+https://github.com/wyf-cloud/ExcelAddIn-VersionInfo/releases/download/v1.0.0.1/setup.exe
 - 初始版本发布。
 - 包含核心算分功能。
